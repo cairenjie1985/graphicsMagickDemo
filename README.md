@@ -1,0 +1,2 @@
+# graphicsMagickDemo
+graphicsMagickDemo
